@@ -1,6 +1,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Sena Ahmad Fathoni</h1>
-<h3 align="center">🚀 Full Stack Developer from Indonesia</h3>
+<h3 align="center">🚀 Web Developer from Indonesia</h3>
+<p align="center">3+ years experience in Industrial Automation System in Indonesia accustomed to developing app that are massive, mission critical , and nationwide.</p>
 
 
 ## 🌐 Socials:
