@@ -23,7 +23,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=senafathoni2998&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=senafathoni2998&theme=calm&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=senafathoni2998&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=senafathoni2998&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=senafathoni2998&icon=6&color=7)](https://visitcount.itsvg.in)
